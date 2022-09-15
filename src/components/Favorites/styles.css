@@ -1,0 +1,25 @@
+.no-fav-spells-box {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+}
+
+.card {
+    background-color: #5c5554 !important;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.fav-spells-container {
+    height: 82vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin: 0 auto;
+    position: relative;
+}

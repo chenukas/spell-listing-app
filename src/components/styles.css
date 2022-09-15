@@ -1,0 +1,22 @@
+.content-row {
+    height: 82vh !important;
+    margin: 0 auto;
+}
+
+.custom-navbar {
+    height: 8vh !important;
+}
+
+.custom-footer {
+    height: 10vh !important;
+}
+
+.spells-panel,
+.spell-info-panel,
+.fav-panel {
+    height: 82vh;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    margin: 0 auto;
+    position: relative;
+}
